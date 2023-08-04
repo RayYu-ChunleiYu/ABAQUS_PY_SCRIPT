@@ -1,6 +1,6 @@
 # Scripts build FEM model in ABAQUS-CAE
 
-Currently, there are two kinds of model
+Currently, there are two kinds of models
 
 ## Concrete filled steel tube (CFST) 
 Load patterns:
