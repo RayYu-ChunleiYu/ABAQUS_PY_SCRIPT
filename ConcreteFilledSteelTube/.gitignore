@@ -1,0 +1,9 @@
+run_files*/
+debug_script/
+reference/
+exp_verified/
+analysis_script/
+*.xlsx
+*.pyc
+**/__pychache__
+/data_sheet/

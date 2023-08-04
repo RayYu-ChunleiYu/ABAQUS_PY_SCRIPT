@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "data-expand-fem"
+version = "0.1.0"
+description = ""
+authors = ["ray <ray.yu@whu.edu.cn>"]
+readme = "README.md"
+packages = [{include = "data_expand_fem"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+abqpy = "^2023.4.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
